@@ -12,6 +12,8 @@ struct ru_ivdkApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+               
+                
         }
     }
 }
